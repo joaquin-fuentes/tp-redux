@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.tabla-scrollable-resumen {
+  max-height: 50vh;
+  overflow-y: auto;
+}
+
+.tabla-scrollable-buscador {
+  max-height: 60vh;
+  overflow-y: auto;
+}
+
+.tabla-scrollable-inicio {
+  max-height: 80vh;
+  overflow-y: auto;
+}
