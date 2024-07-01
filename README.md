@@ -1,8 +1,7 @@
-# React + Vite
+# Tp-Redux - Curso React Avanzado - RollingCode
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+En este repositorio se encuentra el TP de Redux para el curso de React Avanzado de RollingCode.
 
-Currently, two official plugins are available:
+# Modo de uso
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Para poder ver como funciona el proyecto, debe clonar el repositorio, ir a la carpeta del mismo, y en la terminal escribir los comandos "npm install" para instalar todas las dependencias y luego "npm run dev" para correr el programa en localhost.
